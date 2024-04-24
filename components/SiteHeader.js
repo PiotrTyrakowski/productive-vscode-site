@@ -1,5 +1,7 @@
 console.log("hello everybody!");
 
+console.log("hello me!");
+
 export default function SiteHeader() {
   return (
     <nav className="py-10 text-gray-700">
